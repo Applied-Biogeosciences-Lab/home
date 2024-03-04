@@ -1,8 +1,13 @@
 ---
-title: "About"
+title: "ABL Reseach Projects"
 ---
 
-About this site
+Applied Agronomy
+![NMU-ABL student research technicians collecting greenhouse gas emission measurements in an experimental cover crop termination study plot at Michigan State University Upper Peninusla Research & Extension Center ](images/tarp-flux.jpg){width=100%}
+Wetlands
+
+
+Aquatic Ecosystems
 
 ```{r}
 1 + 1
