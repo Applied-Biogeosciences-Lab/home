@@ -1,10 +1,14 @@
 ---
-title: "home"
+title: "Applied Biogeosciences Lab"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Northern Michigan University's Applied Biogeosciences Lab specializes in using in-situ environmental monitoring techniques to develop sustainable natural resource management solutions
 
 
-![THIS IS MY FIGURE CAPTION](images/Flux-Flip.jpg){width=100%}
+
+![Artistic rendering of greenhouse gas emission monitoring at MSU-UPREC ](images/Flux-Flip.jpg){width=100%}
+
+This site is hosted by Dr. Matthew J. Van Grinsven
+Department of Earth Environmental & Geographical Sciences Department 
+
+For more information: <https://nmu.edu/eegs/matthew-van-grinsven>.
