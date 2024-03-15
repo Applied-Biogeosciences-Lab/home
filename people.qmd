@@ -16,7 +16,7 @@ title: "ABL Key Personnel"
 ::: {layout-ncol=3}
 ![Katarina Rothhorn     Environmental Science Student   (NMU-EEGS)](images/kata-bio.jpg){width=100%}
 
-![Mary Kelly     Geographic Information Systems & Technology Student   (NMU-EEGS)](images/mary-bio.jpg){width=100%}
+![Mary Kelly     Environmental Science Student   (NMU-EEGS)](images/mary-bio.jpg){width=100%}
 
 ![Amber Wager     Forensic Biochemistry Student   (NMU)](images/amber-bio.jpg){width=100%}
 
@@ -36,7 +36,7 @@ title: "ABL Key Personnel"
 ## Collaborators
 
 ::: {layout-ncol=3}
-![Dr James DeDecker MSU-UPREC Director](images/james-bio.jpg){width=100%}
+![Dr James DeDecker MSU-UPREC Director](images/DeDecker-bio.jpg){width=100%}
 
 ![Dr Philip Yanguoru Assistant Professor (NMU-Chemistry)](images/philip-bio.jpg){width=100%}
 
