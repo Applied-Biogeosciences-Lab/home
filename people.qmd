@@ -13,39 +13,42 @@ title: "ABL Key Personnel"
 
 ## Research Assistants
 
-::: {layout-ncol=2}
+::: {layout-ncol=3}
 ![Katarina Rothhorn     Environmental Science Student   (NMU-EEGS)](images/kata-bio.jpg){width=100%}
 
 ![Mary Kelly     Geographic Information Systems & Technology Student   (NMU-EEGS)](images/mary-bio.jpg){width=100%}
 
-:::
-
-::: {layout-ncol=2}
 ![Amber Wager     Forensic Biochemistry Student   (NMU)](images/amber-bio.jpg){width=100%}
 
-![Calli Tomasoski     Biology Student   (NMU)](images/calli-bio.jpg){width=100%}
-
 :::
 
-::: {layout-ncol=2}
+::: {layout-ncol=3}
 ![Olivia Maynard     Environmental Science Student   (NMU-EEGS)](images/liv-bio.jpg){width=100%}
+
+![Calli Tomasoski     Biology Student   (NMU)](images/calli-bio.jpg){width=100%}
 
 ![Mackenzie Finton     Environmetnal Science & Biochemistry Student   (NMU-EEGS)](images/mackenzie-bio.jpg){width=100%}
 
 :::
 
+
+
 ## Collaborators
 
-::: {layout-ncol=2}
+::: {layout-ncol=3}
 ![Dr James DeDecker MSU-UPREC Director](images/james-bio.jpg){width=100%}
 
 ![Dr Philip Yanguoru Assistant Professor (NMU-Chemistry)](images/philip-bio.jpg){width=100%}
+
+![Katy Robinson USDA-NRCS Soil Conservationist](images/katy-bio.jpg){width=100%}
 
 :::
 
 
 
-::: {layout-ncol=2}
+::: {layout-ncol=3}
+![Sarah Hayward MSU-UPREC North Farm Coordinator](images/sarah-bio.jpg){width=100%}
+
 ![Randy Swaty Lanscape Ecologist (The Nature Conservancy)](images/randy-bio.jpg){width=100%}
 
 ![Dr Adam Naito Assistant Professor (NMU-EEGS)](images/adam-bio.jpg){width=100%}
@@ -54,7 +57,10 @@ title: "ABL Key Personnel"
 
 
 
+<br />
+<br />
+
 This site is hosted by Dr. Matthew J. Van Grinsven
-Department of Earth Environmental & Geographical Sciences Department 
+Northern Michigan University Department of Earth Environmental & Geographical Sciences Department (NMU-EEGS) 
 
 For more information: <https://nmu.edu/eegs/matthew-van-grinsven>.
