@@ -8,7 +8,8 @@ Northern Michigan University's Applied Biogeosciences Lab (ABL) specializes in i
 
 ![Artistic rendering of greenhouse gas emission monitoring at MSU-UPREC ](images/Flux-Flip.jpg){width=100%}
 
-This site is hosted by Dr. Matthew J. Van Grinsven
-Department of Earth Environmental & Geographical Sciences Department 
+
+
+This site is hosted by Dr. Matthew J. Van Grinsven; Department of Earth Environmental & Geographical Sciences Department 
 
 For more information: <https://nmu.edu/eegs/matthew-van-grinsven>.

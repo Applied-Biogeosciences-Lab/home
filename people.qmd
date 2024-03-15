@@ -2,12 +2,56 @@
 title: "ABL Key Personnel"
 ---
 
-Lab Director
-![Dr. Matthew J. Van Grinsven (AKA Dr-VG) NMU-EEGS Associate Professor NMU-EEGS](images/mvg-bio.jpg){width=100%}
+## Lab Director
+
+::: {layout-ncol=2}
+![Dr. Matthew J. Van Grinsven    Associate Professor    (NMU-EEGS)](images/mvg-bio.jpg){width=100%}
 
 
-Research Assistants
-![Katarina Rothhorn (AKA Kata) NMU-EEGS Environmental Science Student](images/kata-bio.jpg){width=100%}
+:::
+
+
+## Research Assistants
+
+::: {layout-ncol=2}
+![Katarina Rothhorn     Environmental Science Student   (NMU-EEGS)](images/kata-bio.jpg){width=100%}
+
+![Mary Kelly     Geographic Information Systems & Technology Student   (NMU-EEGS)](images/mary-bio.jpg){width=100%}
+
+:::
+
+::: {layout-ncol=2}
+![Amber Wager     Forensic Biochemistry Student   (NMU)](images/amber-bio.jpg){width=100%}
+
+![Calli Tomasoski     Biology Student   (NMU)](images/calli-bio.jpg){width=100%}
+
+:::
+
+::: {layout-ncol=2}
+![Olivia Maynard     Environmental Science Student   (NMU-EEGS)](images/liv-bio.jpg){width=100%}
+
+![Mackenzie Finton     Environmetnal Science & Biochemistry Student   (NMU-EEGS)](images/mackenzie-bio.jpg){width=100%}
+
+:::
+
+## Collaborators
+
+::: {layout-ncol=2}
+![Dr James DeDecker MSU-UPREC Director](images/james-bio.jpg){width=100%}
+
+![Dr Philip Yanguoru Assistant Professor (NMU-Chemistry)](images/philip-bio.jpg){width=100%}
+
+:::
+
+
+
+::: {layout-ncol=2}
+![Randy Swaty Lanscape Ecologist (The Nature Conservancy)](images/randy-bio.jpg){width=100%}
+
+![Dr Adam Naito Assistant Professor (NMU-EEGS)](images/adam-bio.jpg){width=100%}
+
+:::
+
 
 
 This site is hosted by Dr. Matthew J. Van Grinsven
