@@ -55,12 +55,12 @@ title: "ABL Key Personnel"
 
 :::
 
-
-
+<br />
+<br />
 <br />
 <br />
 
-This site is hosted by Dr. Matthew J. Van Grinsven
-Northern Michigan University Department of Earth Environmental & Geographical Sciences Department (NMU-EEGS) 
+<span style="color:Silver">This site is hosted by Dr. Matthew J. Van Grinsven  
+Northern Michigan University Earth Environmental & Geographical Sciences Dept. (NMU-EEGS)</span> 
 
-For more information: <https://nmu.edu/eegs/matthew-van-grinsven>.
+<span style="color:Silver">For more information:</span> <https://nmu.edu/eegs/matthew-van-grinsven>.

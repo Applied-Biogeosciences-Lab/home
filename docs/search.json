@@ -1,38 +1,10 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "ABL Reseach Projects",
-    "section": "",
-    "text": "NMU-ABL student research technicians collecting greenhouse gas emission measurements in an experimental cover crop termination study plot at MSU-UPPEC.\n\n\n\nWe are collaborating with Michigan State University Upper Peninsula Research & Extension Center (Chatham, MI) and Full Plate Farm (Skandia, MI) to examine implications of soil conservation practices on soil health, greenhouse gas emissions, soil temperature & moisture, weed occurrence and organic vegetable crop production.\n\nNMU-ABL undergraduate research assistants recently presented their research at the 2024 Marbleseed Organic Farming Conference (La Crosse, WI), where NMU-ABL members also contributed toward the Organic University Sesssion “Climate Adaptation for Midwest Organic Vegetable Growers” facilitated by a team of researchers from UW-Madison.\n\n Select Publications & Presentations:\n\n\nWhat the Tarp: Assessing Influence of Cover Crop Termination Practices on Soil Health and Fertility in Organic Vegetable Crop Production. Rothhorn et al. 2024. Marbleseed Organic Farming Conference. Click to see\n\n\n\n\nTarping for the Future: Evaluating Soil Temperature and Soil Greenhouse Gas Fluxes Among Cover Crop Termination Methods for Organic Vegetable Crop Production. Maynard et al. 2024. Marbleseed Organic Farming Conference. Click to see\n\n\n\n\nTo Tarp or Not to Tarp? Evaluating Effectiveness of Cover Crop Termination Methods and Weed Management Outcomes for Organic Vegetable Crop Production in the U.S. Midwest. Click to see"
-  },
-  {
-    "objectID": "about.html#metal-nutrient-testing",
-    "href": "about.html#metal-nutrient-testing",
-    "title": "ABL Reseach Projects",
-    "section": "Metal & Nutrient Testing",
-    "text": "Metal & Nutrient Testing\n\n\n\n\n\n\nNMU-ABL student research technician Amber Wager digesting food produce samples in trace metal grade nitric acid in preparation for heavy metal testing using ICP-MS.\n\n\n\nWe are collaborating with Philip Yanguoru (NMU-Chemistry) to evaluate heavy metal concentrations among conventional, organic and not-certified organic fruit and vegetable production methods to examine the consumer health implications. This pilot-study is intended to directly inform future research activities where we plan to use inductively coupled plasma mass spectrometery (ICP-MS) methods to examine linkages between heavy metal concentrations in produce with soil and water management conditions and also with pesticide and herbicide applications.\n\nNMU-ABL undergraduate research assistants recently presented their research at the 2023 American Chemical Society Regional Chapter Meeting (Marquette, MI).\n\n Select Publications & Presentations:\n\n\nTrace Heavy Metals Analysis in Locally Bought Marquette, Michigan Produce. Wager et al. 2023. American Chemical Society Regional Chapter Meeting. Click to see"
-  },
-  {
-    "objectID": "about.html#wetlands",
-    "href": "about.html#wetlands",
-    "title": "ABL Reseach Projects",
-    "section": "Wetlands",
-    "text": "Wetlands\nContent under development"
-  },
-  {
-    "objectID": "about.html#aquatic-ecosystems",
-    "href": "about.html#aquatic-ecosystems",
-    "title": "ABL Reseach Projects",
-    "section": "Aquatic Ecosystems",
-    "text": "Aquatic Ecosystems\nContent under development\n   \nThis site is hosted by Dr. Matthew J. Van Grinsven Northern Michigan University Department of Earth Environmental & Geographical Sciences Department (NMU-EEGS)\nFor more information: https://nmu.edu/eegs/matthew-van-grinsven."
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Applied Biogeosciences Lab",
     "section": "",
-    "text": "Northern Michigan University’s Applied Biogeosciences Lab (ABL) specializes in integrating in-situ environmental monitoring techniques with data science strategies to develop sustainable natural resource management solutions\n\n\n\nArtistic rendering of greenhouse gas emission monitoring at MSU-UPREC\n\n\n \nThis site is hosted by Dr. Matthew J. Van Grinsven Northern Michigan University Department of Earth Environmental & Geographical Sciences Department (NMU-EEGS)\nFor more information: https://nmu.edu/eegs/matthew-van-grinsven."
+    "text": "Northern Michigan University’s Applied Biogeosciences Lab (ABL) specializes in integrating in-situ environmental monitoring techniques with data science strategies to develop sustainable natural resource management solutions.\n\n\n\nArtistic rendering of greenhouse gas emission monitoring at MSU-UPREC.\n\n\n   \nThis site is hosted by Dr. Matthew J. Van Grinsven\nNorthern Michigan University Earth Environmental & Geographical Sciences Dept. (NMU-EEGS)\nFor more information: https://nmu.edu/eegs/matthew-van-grinsven."
   },
   {
     "objectID": "people.html",
@@ -53,6 +25,34 @@
     "href": "people.html#collaborators",
     "title": "ABL Key Personnel",
     "section": "Collaborators",
-    "text": "Collaborators\n\n\n\n\n\n\nDr James DeDecker MSU-UPREC Director\n\n\n\n\n\n\n\nDr Philip Yanguoru Assistant Professor (NMU-Chemistry)\n\n\n\n\n\n\n\nKaty Robinson USDA-NRCS Soil Conservationist\n\n\n\n\n\n\n\n\n\n\n\nSarah Hayward MSU-UPREC North Farm Coordinator\n\n\n\n\n\n\n\nRandy Swaty Lanscape Ecologist (The Nature Conservancy)\n\n\n\n\n\n\n\nDr Adam Naito Assistant Professor (NMU-EEGS)\n\n\n\n\n\n \nThis site is hosted by Dr. Matthew J. Van Grinsven Northern Michigan University Department of Earth Environmental & Geographical Sciences Department (NMU-EEGS)\nFor more information: https://nmu.edu/eegs/matthew-van-grinsven."
+    "text": "Collaborators\n\n\n\n\n\n\nDr James DeDecker MSU-UPREC Director\n\n\n\n\n\n\n\nDr Philip Yanguoru Assistant Professor (NMU-Chemistry)\n\n\n\n\n\n\n\nKaty Robinson USDA-NRCS Soil Conservationist\n\n\n\n\n\n\n\n\n\n\n\nSarah Hayward MSU-UPREC North Farm Coordinator\n\n\n\n\n\n\n\nRandy Swaty Lanscape Ecologist (The Nature Conservancy)\n\n\n\n\n\n\n\nDr Adam Naito Assistant Professor (NMU-EEGS)\n\n\n\n\n\n   \nThis site is hosted by Dr. Matthew J. Van Grinsven\nNorthern Michigan University Earth Environmental & Geographical Sciences Dept. (NMU-EEGS)\nFor more information: https://nmu.edu/eegs/matthew-van-grinsven."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "ABL Reseach Projects",
+    "section": "",
+    "text": "NMU-ABL student research technicians collecting greenhouse gas emission measurements in an experimental cover crop termination study plot at MSU-UPPEC.\n\n\n\nWe are collaborating with Michigan State University Upper Peninsula Research & Extension Center (Chatham, MI) and Full Plate Farm (Skandia, MI) to examine implications of soil conservation practices on soil health, greenhouse gas emissions, soil temperature & moisture, weed occurrence and organic vegetable crop production.\n\nNMU-ABL undergraduate research assistants recently presented their research at the 2024 Marbleseed Organic Farming Conference (La Crosse, WI), where NMU-ABL members also contributed toward the Organic University Sesssion “Climate Adaptation for Midwest Organic Vegetable Growers” facilitated by a team of researchers from UW-Madison.\n\n Select Publications & Presentations:\n\n\nWhat the Tarp: Assessing Influence of Cover Crop Termination Practices on Soil Health and Fertility in Organic Vegetable Crop Production. Rothhorn et al. 2024. Marbleseed Organic Farming Conference. Click to see\n\n\n\n\nTarping for the Future: Evaluating Soil Temperature and Soil Greenhouse Gas Fluxes Among Cover Crop Termination Methods for Organic Vegetable Crop Production. Maynard et al. 2024. Marbleseed Organic Farming Conference. Click to see\n\n\n\n\nTo Tarp or Not to Tarp? Evaluating Effectiveness of Cover Crop Termination Methods and Weed Management Outcomes for Organic Vegetable Crop Production in the U.S. Midwest. Click to see"
+  },
+  {
+    "objectID": "research.html#metal-nutrient-testing",
+    "href": "research.html#metal-nutrient-testing",
+    "title": "ABL Reseach Projects",
+    "section": "Metal & Nutrient Testing",
+    "text": "Metal & Nutrient Testing\n\n\n\n\n\n\nNMU-ABL student research technician Amber Wager digesting food produce samples in trace metal grade nitric acid in preparation for heavy metal testing using ICP-MS.\n\n\n\nWe are collaborating with Philip Yanguoru (NMU-Chemistry) to evaluate heavy metal concentrations among conventional, organic and not-certified organic fruit and vegetable production methods to examine the consumer health implications. This pilot-study is intended to directly inform future research activities where we plan to use inductively coupled plasma mass spectrometery (ICP-MS) methods to examine linkages between heavy metal concentrations in produce with soil, water and crop production management methods.\n\nNMU-ABL undergraduate research assistants recently presented their research at the 2023 American Chemical Society Regional Chapter Meeting (Marquette, MI), and we are currently also examining heavy metal concentrations among beer styles, container types and production scales.\n\n Select Publications & Presentations:\n\n\nTrace Heavy Metals Analysis in Locally Bought Marquette, Michigan Produce. Wager et al. 2023. American Chemical Society Regional Chapter Meeting. Click to see"
+  },
+  {
+    "objectID": "research.html#wetlands",
+    "href": "research.html#wetlands",
+    "title": "ABL Reseach Projects",
+    "section": "Wetlands",
+    "text": "Wetlands\nContent under development"
+  },
+  {
+    "objectID": "research.html#aquatic-ecosystems",
+    "href": "research.html#aquatic-ecosystems",
+    "title": "ABL Reseach Projects",
+    "section": "Aquatic Ecosystems",
+    "text": "Aquatic Ecosystems\nContent under development\n   \nThis site is hosted by Dr. Matthew J. Van Grinsven\nNorthern Michigan University Earth Environmental & Geographical Sciences Dept. (NMU-EEGS)\nFor more information: https://nmu.edu/eegs/matthew-van-grinsven."
   }
 ]
