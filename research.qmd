@@ -2,23 +2,16 @@
 title: "ABL Reseach Projects"
 ---
 
-
-
 ## Applied Agronomy
 
-::: {layout-ncol=2}
-![](images/tarp-flux.jpg){height=40%}
+ ![NMU-ABL student research technicians collecting GHG emission measurements in experimental study study plots at MSU-UPREC.](images/tarp-flux.jpg){style="float:right; margin-left: 5%; fig-align:right; width:35%;" fig-alt="\"Photo taken of two NMU-ABL student research technicians collecting greenhouse gas emission measurements in an experimental cover crop termination study plot at MSU-UPREC."}
 
-*<span style="color:Silver">NMU-ABL student research technicians collecting greenhouse gas emission measurements in an experimental cover crop termination study plot at MSU-UPPEC.</span>*
-
-
-:::
-
-We are collaborating with Michigan State University Upper Peninsula Research & Extension Center (Chatham, MI) and Full Plate Farm (Skandia, MI) to examine implications of soil conservation practices on soil health, greenhouse gas emissions, soil temperature & moisture, weed occurrence and organic vegetable crop production.
+We are collaborating with [Michigan State University Upper Peninsula Research & Extension Center](https://www.canr.msu.edu/uprc/) (MSU-UPREC) and [Full Plate Farm](https://www.fullplatefarmmi.com/) to examine implications of soil conservation and cover crop management practices on soil health, greenhouse gas emissions (GHG), soil temperature & moisture, weed occurrence and organic vegetable crop production.
 
 * NMU-ABL undergraduate research assistants recently presented their research at the 2024 Marbleseed Organic Farming Conference (La Crosse, WI), where NMU-ABL members also contributed toward the Organic University Sesssion “Climate Adaptation for Midwest Organic Vegetable Growers” facilitated by a team of researchers from UW-Madison.
 
 <br />
+
 [**<span style="color:Gainsboro">Select Publications & Presentations</span>**]{.underline}:
 
 ::: {.content-visible when-format="html"}
@@ -37,21 +30,17 @@ We are collaborating with Michigan State University Upper Peninsula Research & E
 <br />
 <br />
 
+
+
 ## Metal & Nutrient Testing
 
-::: {layout-ncol=2}
-![](images/research/metal_testing_3.jpg){height=40%}
+![NMU-ABL student research technician digesting food produce samples in trace metal grade nitric acid to prepare for heavy metal analysis using ICP-MS.](images/research/metal_testing_3.jpg){style="float:left; margin-right: 5%; fig-align:left; width:35%;" fig-alt="\"Photo taken of NMU-ABL student research technician digesting food produce samples in trace metal grade nitric acid under a fume hood to prepare samples for heavy metal analysis using ICP-MS."}
 
-*<span style="color:Silver">NMU-ABL student research technician Amber Wager digesting food produce samples in trace metal grade nitric acid in preparation for heavy metal testing using ICP-MS.</span>*
-
-
-:::
-
-We are collaborating with Philip Yanguoru (NMU-Chemistry) to evaluate heavy metal concentrations among conventional, organic and not-certified organic fruit and vegetable production methods to examine the consumer health implications.  This pilot-study is intended to directly inform future research activities where we plan to use inductively coupled plasma mass spectrometery (ICP-MS) methods to examine linkages between heavy metal concentrations in produce with soil, water and crop production management methods.
+We are collaborating with [Dr. Philip Yanguoru](https://nmu.edu/chemistry/dr-philip-yangyuoru) (NMU-Chemistry) to evaluate heavy metal concentrations among conventional, organic and not-certified organic fruit and vegetable production methods to examine the consumer health implications.  This pilot-study is intended to directly inform future research activities where we plan to use inductively coupled plasma mass spectrometery (ICP-MS) methods to examine linkages between heavy metal concentrations in produce with soil, water and crop production management methods.
 
 * NMU-ABL undergraduate research assistants recently presented their research at the 2023 American Chemical Society Regional Chapter Meeting (Marquette, MI), and we are currently also examining heavy metal concentrations among beer styles, container types and production scales.
 
-<br />
+
 [**<span style="color:Gainsboro">Select Publications & Presentations</span>**]{.underline}:
 
 ::: {.content-visible when-format="html"}
