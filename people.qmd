@@ -4,12 +4,16 @@ title: "ABL Key Personnel"
 
 ## Lab Director
 
-::: {layout-ncol=2}
-![Dr. Matthew J. Van Grinsven    Associate Professor    (NMU-EEGS)](images/mvg-bio.jpg){width=100%}
+![Dr. Matthew J. Van Grinsven    Associate Professor    (NMU-EEGS)](images/mvg-bio.jpg){style="float:right; margin-left: 5%; fig-align:right; width:33%;" fig-alt="\"Photo taken of two NMU-ABL student research technicians collecting greenhouse gas emission measurements in an experimental cover crop termination study plot at MSU-UPREC."}
 
+<span style="color:Silver">Dr. Matthew J. Van Grinsven (AKA Dr. VG) is an Earth systems scientist with extensive applied resource management experience working with the Cooperative Extension System, the US Forest Service Northern Research Station, the National Park Service Inventory & Monitoring Program, local conservation districts, non-profit organizations, farmers and private landowners.</span>
 
-:::
+* <span style="color:Silver"> As an Associate Professor, Dr. VG is also dedicated to providing professional skills training and experiences to undergraduate and graduate students where ABL's applied research activities commonly integrate advanced analytical instrumentation techniques, in-situ monitoring methods and data science strategies to generate scientifically rigorous and practically meaningful deliverables to resource managers, farmers and technical specialists.</span>
 
+<br />
+<br />
+<br />
+<br />
 
 ## Research Assistants
 
@@ -31,7 +35,17 @@ title: "ABL Key Personnel"
 
 :::
 
+::: {layout-ncol=3}
+![Katelyn Bell     Biology Student & McNair Scholar  (NMU)](images/bell-bio.jpg){width=100%}
 
+![Trinity Valentin    Earth Science Student & McNair Scholar   (NMU-EEGS)](images/valentin-bio.jpg){width=100%}
+
+![Elizabeth Armstrong    Environmental Science Student   (NMU-EEGS & MSU-UPREC)](images/armstrong-bio.png){width=100%}
+
+:::
+
+<br />
+<br />
 
 ## Collaborators
 
@@ -54,6 +68,7 @@ title: "ABL Key Personnel"
 ![Dr Adam Naito Assistant Professor (NMU-EEGS)](images/adam-bio.jpg){width=100%}
 
 :::
+
 
 <br />
 <br />
