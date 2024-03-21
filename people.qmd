@@ -4,9 +4,9 @@ title: "ABL Key Personnel"
 
 ## Lab Director
 
-![Dr. Matthew J. Van Grinsven    Associate Professor    (NMU-EEGS)](images/mvg-bio.jpg){style="float:right; margin-left: 5%; fig-align:right; width:33%;" fig-alt="\"Photo taken of two NMU-ABL student research technicians collecting greenhouse gas emission measurements in an experimental cover crop termination study plot at MSU-UPREC."}
+![<a href="https://nmu.edu/eegs/matthew-van-grinsven" >Dr. Matthew J. Van Grinsven</a> Associate Professor (NMU-EEGS)](images/mvg-bio.jpg){style="float:right; margin-left: 5%; fig-align:right; width:33%;" fig-alt="\"Photo taken of two NMU-ABL student research technicians collecting greenhouse gas emission measurements in an experimental cover crop termination study plot at MSU-UPREC."}
 
-<span style="color:Silver">Dr. Matthew J. Van Grinsven (AKA Dr. VG) is an Earth systems scientist with extensive applied resource management experience working with the Cooperative Extension System, the US Forest Service Northern Research Station, the National Park Service Inventory & Monitoring Program, local conservation districts, non-profit organizations, farmers and private landowners.</span>
+<span style="color:Silver">Dr. Matthew J. Van Grinsven (Dr. VG) is an Earth systems scientist with extensive applied resource management experience working with the Cooperative Extension System, the US Forest Service Northern Research Station, the National Park Service Inventory & Monitoring Program, local conservation districts, non-profit organizations, farmers and private landowners.</span>
 
 * <span style="color:Silver"> As an Associate Professor, Dr. VG is also dedicated to providing professional skills training and experiences to undergraduate and graduate students where ABL's applied research activities commonly integrate advanced analytical instrumentation techniques, in-situ monitoring methods and data science strategies to generate scientifically rigorous and practically meaningful deliverables to resource managers, farmers and technical specialists.</span>
 
@@ -50,9 +50,9 @@ title: "ABL Key Personnel"
 ## Collaborators
 
 ::: {layout-ncol=3}
-![Dr James DeDecker MSU-UPREC Director](images/DeDecker-bio.jpg){width=100%}
+![<a href="https://www.canr.msu.edu/people/james_dedecker" >Dr James DeDecker</a> MSU-UPREC Director](images/DeDecker-bio.jpg){width=100%}
 
-![Dr Philip Yanguoru Assistant Professor (NMU-Chemistry)](images/philip-bio.jpg){width=100%}
+![<a href="https://nmu.edu/chemistry/dr-philip-yangyuoru" >Dr Philip Yanguoru</a> Assistant Professor (NMU-Chemistry)](images/philip-bio.jpg){width=100%}
 
 ![Katy Robinson USDA-NRCS Soil Conservationist](images/katy-bio.jpg){width=100%}
 
@@ -63,12 +63,19 @@ title: "ABL Key Personnel"
 ::: {layout-ncol=3}
 ![Sarah Hayward MSU-UPREC North Farm Coordinator](images/sarah-bio.jpg){width=100%}
 
-![Randy Swaty Lanscape Ecologist (The Nature Conservancy)](images/randy-bio.jpg){width=100%}
+![<a href="https://nmu.edu/eegs/randy-swaty" >Randy Swaty</a> Conservation Ecologist (The Nature Conservancy)](images/randy-bio.jpg){width=100%}
 
-![Dr Adam Naito Assistant Professor (NMU-EEGS)](images/adam-bio.jpg){width=100%}
+![<a href="https://nmu.edu/eegs/adam-naito" >Dr Adam Naito</a> Assistant Professor (NMU-EEGS)](images/adam-bio.jpg){width=100%}
 
 :::
 
+::: {layout-ncol=3}
+![Laura Brosius Farmer (<a href="https://www.fullplatefarmmi.com/" >Full Plate Farm</a>)](images/brosius-bio.jpg){width=100%}
+
+![<a href="https://marquettecd.com/" >Marquette County Conservation District</a>](images/MCCD-logo.png){width=100%}
+
+![<a href="https://conservationdatalab.org/" >Conservation Data Lab</a>](images/cdl-bio2.png){width=100%}
+:::
 
 <br />
 <br />
