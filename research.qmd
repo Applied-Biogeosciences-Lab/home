@@ -4,9 +4,9 @@ title: "ABL Reseach Projects"
 
 ## Applied Agronomy
 
- ![NMU-ABL student research technicians collecting GHG emission measurements in experimental study study plots at MSU-UPREC.](images/tarp-flux.jpg){style="float:right; margin-left: 5%; fig-align:right; width:35%;" fig-alt="\"Photo taken of two NMU-ABL student research technicians collecting greenhouse gas emission measurements in an experimental cover crop termination study plot at MSU-UPREC."}
+![NMU-ABL student research technicians collecting GHG emission measurements in experimental study study plots at MSU-UPREC.](images/tarp-flux.jpg){style="float:right; margin-left: 5%; fig-align:right; width:35%;" fig-alt="\"Photo taken of two NMU-ABL student research technicians collecting greenhouse gas emission measurements in an experimental cover crop termination study plot at MSU-UPREC."}
 
-We are collaborating with [Michigan State University Upper Peninsula Research & Extension Center](https://www.canr.msu.edu/uprc/) (MSU-UPREC) and [Full Plate Farm](https://www.fullplatefarmmi.com/) to examine implications of soil conservation and cover crop management practices on soil health, greenhouse gas emissions (GHG), soil temperature & moisture, weed occurrence and organic vegetable crop production.
+We are collaborating with Michigan State University Upper Peninsula Research & Extension Center ([MSU-UPREC](https://www.canr.msu.edu/uprc/)) and [Full Plate Farm](https://www.fullplatefarmmi.com/) to examine implications of soil conservation and cover crop management practices on soil health, greenhouse gas emissions (GHG), soil temperature & moisture, weed occurrence and organic vegetable crop production.
 
 * NMU-ABL undergraduate research assistants recently presented their research at the 2024 Marbleseed Organic Farming Conference (La Crosse, WI), where NMU-ABL members also contributed toward the Organic University Sesssion “Climate Adaptation for Midwest Organic Vegetable Growers” facilitated by a team of researchers from UW-Madison.
 
@@ -32,7 +32,7 @@ We are collaborating with [Michigan State University Upper Peninsula Research & 
 
 
 
-## Metal & Nutrient Testing
+## Heavy Metal Testing
 
 ![NMU-ABL student research technician digesting food produce samples in trace metal grade nitric acid to prepare for heavy metal analysis using ICP-MS.](images/research/metal_testing_3.jpg){style="float:left; margin-right: 5%; fig-align:left; width:35%;" fig-alt="\"Photo taken of NMU-ABL student research technician digesting food produce samples in trace metal grade nitric acid under a fume hood to prepare samples for heavy metal analysis using ICP-MS."}
 
@@ -52,15 +52,58 @@ We are collaborating with [Dr. Philip Yanguoru](https://nmu.edu/chemistry/dr-phi
 <br />
 <br />
 
-## Wetlands
+## Mitigation Wetlands
 
-*Content under development*
+![NMU-ABL student research technicians installing a groundwater monitoring well into a City of Marquette mitigation wetland.](images/research/wetland_mitigation_2.jpg){style="float:right; margin-left: 5%; fig-align:right; width:35%;" fig-alt="\"Photo taken of two NMU-ABL student research technicians using a fence post driver to install a sand-point groundwater monitoring well into a City of Marquette mitigation wetland."}
+
+NMU-ABL has been collaborating with the Marquette County Conservation District and the City of Marquette to monitor hydrological and vegetation conditions within five mitigation wetlands.  A variety of measurement and monitoring methods, including implementing groundwater & meteorological data loggers, collecting herbaceous and woody vegetation surveys, and using UAV for LiDAR mapping have been performed since 2017 to contribute to ongoing assessment activities. 
+
+* Several NMU-ABL researchers have presented their research at conferences such as the Society of Wetland Scientists and American Association of Geographers meetings where past topics included integrating aerial survey & hydrological monitoring data, evaluating the growth and survival of planted tree species, assessing vegetation composition and interannual trends, and examining hydrological connectivity between the mitigation wetlands with surrounding groundwater, Lake Superior and the atmosphere.
+
+[**<span style="color:Gainsboro">Select Publications & Presentations</span>**]{.underline}:
+
+::: {.content-visible when-format="html"}
+* <span style="color:Gainsboro">Use of Aerial LiDAR Survey to Support Restoration and Management Objectives for Mitigation Wetlands in Marquette, MI, USA. Kelly et al. 2023. American Association of Geographers West Lakes Meeting (*1st place - Student Paper Award*).</span> [Click to see](files/Kelly_AAG_2023.pdf)
+
+* <span style="color:Gainsboro">Vegetation Composition Assessment and Trend Analysis of Forested Mitigation Wetlands in Marquette, MI. Waatti et al. 2022. Society of Wetland Scientists Annual Meeting.</span> [Click to see](files/Waatti_SWS_2022.pdf)
+
+* <span style="color:Gainsboro">Investigating the Hydrological Connectivity of Forested Mitigation Wetlands Between 2019 -2021 in Marquette Michigan, USA. O'Loughlin et al. 2022. Society of Wetland Scientists Annual Meeting.</span> [Click to see](files/O'Loughlin_SWS_2022.pdf)
+
+* <span style="color:Gainsboro">Evaluation of Planted Seedling Survival and Growth in Forested Mitigation Wetlands in Marquette Michigan, USA. Van Grinsven et al. 2021. Society of Wetland Scientists Annual Meeting; *ePresentation*.</span> [Click to see](files/Van Grinsven_SWS_2021.pdf)
+:::
 
 <br />
 <br />
 <br />
 
-## Water Resources & Aquatic Ecosystems
+## Black Ash Wetlands & Forest Resources
+
+![NMU-ABL Director collecting gas headspace samples for methane concentration analysis using gas chromatography.](images/research/black_ash_wetland_6.jpg){style="float:right; margin-left: 5%; fig-align:right; width:35%;" fig-alt="\"Photo taken of NMU-ABL director collecting gas headspace samples from a static chamber in a black ash wetland."}
+
+As a part of an interdisciplinary team of scientists and resource managers, NMU-ABL personnel have contributed toward a long-term black ash forest resource management investigation in collaboration with the U.S. Forest Service and Michigan Technological University.  Major outcomes of this research have provided critical guidance and recommendations to forest resource managers throughout the Great Lakes region to help mitigate emerald ash borer (EAB) related disturbances.
+
+Applied research activities included evaluating the growth and survival of alternative planted tree seedlings, predicting future black ash ecosystem conditions to examine species tolerances and produce climate adapted species recommendations, evaluating responses of nitrogen cycling, greenhouse gas emission and wetland water levels to simulated EAB disturbances to provide forest resource management guidance. 
+
+[**<span style="color:Gainsboro">Select Publications & Presentations</span>**]{.underline}:
+
+::: {.content-visible when-format="html"}
+* <span style="color:Gainsboro">Joint Impacts of Future Climate Conditions and Invasive Species on Black Ash Forested Wetlands. Frontiers in Forests and Global Change. 5: 957526. ([Shannon et al 2022](https://doi.org/10.3389/ffgc.2022.957526)).</span>
+
+* <span style="color:Gainsboro">Integrating the Effects of Climate Change and Invasive
+Species on Wetland Ecohydrology to Evaluate Management Options. Shannon et al. 2020. American Geophysical Union Annual Meeting.</span> [Click to see](files/Shannon_AGU_2020.pdf)
+
+* <span style="color:Gainsboro">Nitrogen cycling responses to simulated emerald ash borer infestation in Fraxinus nigra-dominated wetlands. Biogeochemistry, 145(3). ([Davis et al. 2019](https://doi.org/10.1007/s10533-019-00604-2)).</span> 
+
+* <span style="color:Gainsboro">Response of Black Ash Wetland Gaseous Soil Carbon Fluxes to a Simulated Emerald Ash Borer Disturbance. Forests 9(6). ([Van Grinsven et al. 2018](https://doi.org/10.3390/f9060324)).</span> 
+
+* <span style="color:Gainsboro">Source water contributions and hydrologic responses to simulated emerald ash borer infestations in depressional black ash wetlands. Ecohydrology 10(7). ([Van Grinsven et al. 2017](https://doi.org/10.1002/eco.1862)).</span> 
+:::
+
+<br />
+<br />
+<br />
+
+## Water Resources & Aquatic Ecoystems
 
 *Content under development*
 
