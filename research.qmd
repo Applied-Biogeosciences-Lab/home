@@ -78,11 +78,11 @@ NMU-ABL has been collaborating with the Marquette County Conservation District a
 
 ## Black Ash Wetlands & Forest Resources
 
-![NMU-ABL Director collecting gas headspace samples for methane concentration analysis using gas chromatography.](images/research/black_ash_wetland_6.jpg){style="float:right; margin-left: 5%; fig-align:right; width:35%;" fig-alt="\"Photo taken of NMU-ABL director collecting gas headspace samples from a static chamber in a black ash wetland."}
+![NMU-ABL Director collecting gas headspace samples for methane concentration analysis via gas chromatography.](images/research/black_ash_wetland_6.jpg){style="float:left; margin-right: 5%; fig-align:left; width:35%;" fig-alt="\"Photo taken of NMU-ABL director collecting gas headspace samples from a static chamber in a black ash wetland."}
 
 As a part of an interdisciplinary team of scientists and resource managers, NMU-ABL personnel have contributed toward a long-term black ash forest resource management investigation in collaboration with the U.S. Forest Service and Michigan Technological University.  Major outcomes of this research have provided critical guidance and recommendations to forest resource managers throughout the Great Lakes region to help mitigate emerald ash borer (EAB) related disturbances.
 
-Applied research activities included evaluating the growth and survival of alternative planted tree seedlings, predicting future black ash ecosystem conditions to examine species tolerances and produce climate adapted species recommendations, evaluating responses of nitrogen cycling, greenhouse gas emission and wetland water levels to simulated EAB disturbances to provide forest resource management guidance. 
+Applied research activities included evaluating the growth and survival of alternative planted tree seedlings, predicting future black ash ecosystem conditions to examine species tolerances and produce climate adapted species recommendations, evaluating responses of nitrogen cycling, greenhouse gas emissions and wetland water levels to simulated EAB disturbances to provide forest resource management guidance. 
 
 [**<span style="color:Gainsboro">Select Publications & Presentations</span>**]{.underline}:
 
