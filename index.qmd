@@ -2,11 +2,11 @@
 title: "Applied Biogeosciences Lab"
 ---
 
-Northern Michigan University's Applied Biogeosciences Lab (ABL) specializes in integrating in-situ environmental monitoring techniques with data science strategies to develop sustainable natural resource management solutions. TEST
+Northern Michigan University's Applied Biogeosciences Lab (ABL) specializes in integrating in-situ environmental monitoring techniques with data science strategies to develop sustainable natural resource management solutions.
 
 
 
-![Artistic rendering of greenhouse gas emission monitoring using LI-7810 and LI-7820 trace gas analyzers at MSU-UPREC North Farm. ](images/Flux-Flip.jpg){width=100%}
+![Artistic rendering of greenhouse gas emission monitoring using LI-7810 and LI-7820 trace gas analyzers at MSU-UPREC North Farm. ](images/Flux-Flip.jpg){width=50%;fig-align:center}
 
 
 
