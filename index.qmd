@@ -2,20 +2,17 @@
 title: "Applied Biogeosciences Lab"
 ---
 
-Northern Michigan University's Applied Biogeosciences Lab (ABL) specializes in integrating in-situ environmental monitoring techniques with data science strategies to develop sustainable natural resource management solutions.
+![Artistic rendering of greenhouse gas emission monitoring using LI-7810 and LI-7820 trace gas analyzers at MSU-UPREC North Farm. ](images/Flux-Flip.jpg){style="float:left; margin-right: 5%; fig-align:right; width:65%;" fig-alt="\"Artistic rendering of a photo taken of a greenhouse gas analyzer in a reduced tillage study plot at MSU-UPREC."}
+<span style="color:Silver">Northern Michigan University's Applied Biogeosciences Lab (ABL) specializes in integrating in-situ environmental monitoring techniques with data science strategies to develop sustainable natural resource management solutions.</span>
 
-
-
-![Artistic rendering of greenhouse gas emission monitoring using LI-7810 and LI-7820 trace gas analyzers at MSU-UPREC North Farm. ](images/Flux-Flip.jpg){width=50%;fig-align:center}
-
-
+ <span style="color:Silver"> ABL Director Dr. Matt Van Grinsven    works closely with a variety of collaborators including          government agencies, NGO's, private landowners, academic         researchers and university students to conduct research          intended to generate resource management guidance and            recommendations for stakeholders.</span>
 
 <br />
 <br />
 <br />
 <br />
+<br />
 
-<span style="color:Silver">This site is hosted by Dr. Matthew J. Van Grinsven  
-Northern Michigan University Earth Environmental & Geographical Sciences Dept. (NMU-EEGS)</span> 
 
-<span style="color:Silver">For more information:</span> <https://nmu.edu/eegs/matthew-van-grinsven>.
+<span style="color:Silver">This site is hosted by <a href="https://nmu.edu/eegs/matthew-van-grinsven" >Dr. Matthew J. Van Grinsven</a>   
+<span style="color:Silver">Northern Michigan University Earth, Environmental & Geographical Sciences Department <a href="https://nmu.edu/eegs" >(NMU-EEGS Dept.)</a></span> 
