@@ -115,7 +115,7 @@ Species on Wetland Ecohydrology to Evaluate Management Options. Shannon et al. 2
 ## Water Resources & Aquatic Ecoystems
 
 ::: {layout-ncol=2}
-![NMU-ABL Director collecting calibrating multi-paramter water quality sonde along La Verkin Creek, Zion National Park, UT.](images/research/Van Grinsven_NCPN.jpg){width=100%}
+![NMU-ABL Director calibrating multi-paramter water quality sonde along La Verkin Creek, Zion National Park, UT.](images/research/Van Grinsven_NCPN.jpg){width=100%}
 
 ![NMU-ABL Director retrieving temperature loggers from groundwater monitoring wells intalled in coaster brook trout spawning habitat in Salmon Trout River, MI.](images/research/str.jpg){width=100%}
 
