@@ -18,6 +18,55 @@ title: "ABL Key Personnel"
 ## Research Assistants
 
 ::: {layout-ncol=3}
+![Alex Hulstrom     Environmental Science Student   (NMU-EEGS)](images/alex-bio.jpg){width=100%}
+
+![Emma Lemerand     Biology Student   (NMU)](images/Lemerand-bio.jpg){width=100%}
+
+![Katelyn Bell     Biology Student & McNair Scholar   (NMU)](images/Katy-Bell-Bio.png){width=100%}
+
+
+:::
+
+::: {layout-ncol=3}
+![Lola Rigano     Environmental Science Student   (NMU-EEGS)](images/Lola-Rigan-bio.jpg){width=100%}
+
+![Ashlyn Albert     Environmental Science Student   (NMU-EEGS)](images/Ashlyn_Albert-bio.jpg){width=100%}
+
+![Eden Holm-Griffis     Enivronmnetal Science Student   (NMU-EEGS)](images/Eden_Holm_Griffis-bio.jpg){width=100%}
+
+:::
+
+
+
+::: {layout-ncol=3}
+![Maija Fox     Environmental Science Student   (NMU-EEGS)](images/Fox-bio.jpg){width=100%}
+
+![Ezra Deadenbach     M.S. Sustainability Student   (NMU-EEGS)](images/Ezra_Deadenbach-bio.jpg){width=100%}
+
+![Darcy     Full Plate Farm Dog   (FPF)](images/Darcy-dog-bio.jpg){width=100%}
+
+:::
+
+::: {layout-ncol=3}
+![Wrenna Galloway     Environmental Science Student   (NMU-EEGS)](images/Wrenna-Galloway-bio.jpg){width=100%}
+
+![David Casto     Environmental Science Student   (NMU-EEGS)](images/David-Casto-bio.jpg){width=100%}
+
+![Miranda Fletcher     Agriculture Technician   (MSU-UPREC)](images/Miranda-Fletcher.jpg){width=100%}
+
+:::
+
+
+::: {layout-ncol=3}
+![Abby Owen     Biology Student   (NMU)](images/Owen-bio.jpg){width=100%}
+
+![Sean Kellogg     Forensic Biochemistry Student   (NMU)](images/Sean-Bio.png){width=100%}
+
+![Simone Melle     M.S. Integrated Bioscience Student   (NMU)](images/Melle-bio.jpg){width=100%}
+
+:::
+
+::: {layout-ncol=3}
 ![Katarina Rothhorn     Environmental Science Student   (NMU-EEGS)](images/kata-bio.jpg){width=100%}
 
 ![Mary Kelly     Environmental Science Student   (NMU-EEGS)](images/mary-bio.jpg){width=100%}
@@ -36,7 +85,7 @@ title: "ABL Key Personnel"
 :::
 
 ::: {layout-ncol=3}
-![Katelyn Bell     Biology Student & McNair Scholar  (NMU)](images/bell-bio.jpg){width=100%}
+![Silas Pickhardt     Biology Student (NMU)](images/Silas Pickhardt-bio.jpg){width=100%}
 
 ![Trinity Valentin    Earth Science Student & McNair Scholar   (NMU-EEGS)](images/valentin-bio.jpg){width=100%}
 
@@ -77,6 +126,16 @@ title: "ABL Key Personnel"
 ![<a href="https://conservationdatalab.org/" >Conservation Data Lab</a>](images/cdl-bio2.png){width=100%}
 :::
 
+
+::: {layout-ncol=3}
+
+
+![<a href="https://www.tu.org/" >Trout Unlimited</a>](images/TU_Logo_2.jpg){width=100%}
+
+![(<a href="https://www.nps.gov/piro/index.htm" >Pictured Rocks National Lakeshore</a>)](images/NPS-bio.png){width=100%}
+
+![<a href="https://yellowdogwatershed.org/" >Yellow Dog Watershed Preserve</a>](images/yellow-dog-watersheds-logo-1.png){width=100%}
+:::
 <br />
 <br />
 <br />

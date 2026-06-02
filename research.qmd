@@ -4,7 +4,7 @@ title: "ABL Reseach Projects"
 
 ## Applied Agronomy
 
-![NMU-ABL student research technicians collecting GHG emission measurements in experimental study study plots at MSU-UPREC.](images/tarp-flux.jpg){style="float:right; margin-left: 5%; fig-align:right; width:35%;" fig-alt="\"Photo taken of two NMU-ABL student research technicians collecting greenhouse gas emission measurements in an experimental cover crop termination study plot at MSU-UPREC."}
+![NMU-ABL Director and research technicians collecting GHG emission measurements in experimental study study plots at Full Plate Farm.](images/research/reduced-tillage.jpg){style="float:right; margin-left: 5%; fig-align:right; width:50%;" fig-alt="\"Photo taken of two NMU-ABL student research technicians collecting greenhouse gas emission measurements in an experimental cover crop termination study plot at MSU-UPREC."}
 
 We are collaborating with Michigan State University Upper Peninsula Research & Extension Center ([MSU-UPREC](https://www.canr.msu.edu/uprc/)) and [Full Plate Farm](https://www.fullplatefarmmi.com/) to examine implications of soil conservation and cover crop management practices on soil health, greenhouse gas emissions (GHG), soil temperature & moisture, weed occurrence and organic vegetable crop production.
 
@@ -15,16 +15,21 @@ We are collaborating with Michigan State University Upper Peninsula Research & E
 [**<span style="color:Gainsboro">Select Publications & Presentations</span>**]{.underline}:
 
 ::: {.content-visible when-format="html"}
-* <span style="color:Gainsboro">What the Tarp: Assessing Influence of Cover Crop Termination Practices on Soil Health and Fertility in Organic Vegetable Crop Production. Rothhorn et al. 2024. Marbleseed Organic Farming Conference.</span> [Click to see](files/Rothhorn_MC_2024.pdf)
+* <span style="color:Gainsboro">Soil Health: Reduced Tillage Strategies for Organic Farmers. DeDecker et al. 2026. MSU Extension Transition to Organic Partnership Program Seminar.</span> [Click to see](files/DeDecker_MSU TOPP Seminar_2026.pdf)
 :::
 
 ::: {.content-visible when-format="html"}
-* <span style="color:Gainsboro">Tarping for the Future: Evaluating Soil Temperature and Soil Greenhouse Gas Fluxes Among Cover Crop Termination Methods for Organic Vegetable Crop Production. Maynard et al. 2024. Marbleseed Organic Farming Conference.</span> [Click to see](files/Maynard_MC_2024.pdf)
+* <span style="color:Gainsboro">Comparing Soil Health and Fertility Outcomes Among Reduced Tillage Practices in Organic Vegetable Crop Production. Van Grinsven et al. 2025. CANVAS Conference.</span> [Click to see](files/Van Grinsven_CANVAS_2025.pdf)
 :::
 
 ::: {.content-visible when-format="html"}
-* <span style="color:Gainsboro">To Tarp or Not to Tarp? Evaluating Effectiveness of Cover Crop Termination Methods and Weed Management Outcomes for Organic Vegetable Crop Production in the U.S. Midwest.</span> [Click to see](files/Tomasoski_MC_2024.pdf)
+* <span style="color:Gainsboro">Evaluating Soil Temperature, Moisture and Greenhouse Gas Fluxes Among Reduced Tillage Practices for Organic Vegetable Crop Production. Hulstrom et al. 2025. CANVAS Conference.</span> [Click to see](files/Hulstrom_CANVAS_2025.pdf)
 :::
+
+::: {.content-visible when-format="html"}
+* <span style="color:Gainsboro">Comparing Organic Vegetable Production and Weed Management Outcomes Among Reduced Tillage Practices in the Midwest U.S. Lemerand et al. 2025. CANVAS Conference.</span> [Click to see](files/Lemerand_CANVAS_2025.pdf)
+:::
+
 
 <br />
 <br />
@@ -34,7 +39,7 @@ We are collaborating with Michigan State University Upper Peninsula Research & E
 
 ## Heavy Metal Testing
 
-![NMU-ABL student research technician digesting food produce samples in trace metal grade nitric acid to prepare for heavy metal analysis using ICP-MS.](images/research/metal_testing_3.jpg){style="float:left; margin-right: 5%; fig-align:left; width:35%;" fig-alt="\"Photo taken of NMU-ABL student research technician digesting food produce samples in trace metal grade nitric acid under a fume hood to prepare samples for heavy metal analysis using ICP-MS."}
+![NMU-ABL student research technician digesting food produce samples in trace metal grade nitric acid to prepare for heavy metal analysis using ICP-MS.](images/research/metal_testing_3.jpg){style="float:left; margin-right: 5%; fig-align:left; width:30%;" fig-alt="\"Photo taken of NMU-ABL student research technician digesting food produce samples in trace metal grade nitric acid under a fume hood to prepare samples for heavy metal analysis using ICP-MS."}
 
 We are collaborating with [Dr. Philip Yanguoru](https://nmu.edu/chemistry/dr-philip-yangyuoru) (NMU-Chemistry) to evaluate heavy metal concentrations among conventional, organic and not-certified organic fruit and vegetable production methods to examine the consumer health implications.  This pilot-study is intended to directly inform future research activities where we plan to use inductively coupled plasma mass spectrometery (ICP-MS) methods to examine linkages between heavy metal concentrations in produce with soil, water and crop production management methods.
 
@@ -42,6 +47,10 @@ We are collaborating with [Dr. Philip Yanguoru](https://nmu.edu/chemistry/dr-phi
 
 
 [**<span style="color:Gainsboro">Select Publications & Presentations</span>**]{.underline}:
+
+::: {.content-visible when-format="html"}
+* <span style="color:Gainsboro">Pick your poison - A comparative study on trace heavy metal concentrations in beverages. Wager et al. 2025. National Honers Society Conference 2025.</span> [Click to see](files/Wager_NHS_2025.pdf)
+:::
 
 ::: {.content-visible when-format="html"}
 * <span style="color:Gainsboro">Trace Heavy Metals Analysis in Locally Bought Marquette, Michigan Produce. Wager et al. 2023. American Chemical Society Regional Chapter Meeting.</span> [Click to see](files/Wager_ACS_2023.pdf)
@@ -105,7 +114,28 @@ Species on Wetland Ecohydrology to Evaluate Management Options. Shannon et al. 2
 
 ## Water Resources & Aquatic Ecoystems
 
-*Content under development*
+::: {layout-ncol=2}
+![NMU-ABL Director collecting calibrating multi-paramter water quality sonde along La Verkin Creek, Zion National Park, UT.](images/research/Van Grinsven_NCPN.jpg){width=100%}
+
+![NMU-ABL Director retrieving temperature loggers from groundwater monitoring wells intalled in coaster brook trout spawning habitat in Salmon Trout River, MI.](images/research/str.jpg){width=100%}
+
+
+:::
+NMU ABL has worked with a variety of government agencies and and non-governmental organizations including the National Park Service Northern Colorado Plateau Inventory & Monitoring Network and the Huron Mountain Wildlife Foundation to conduct aquatic resource investigations.  Outcomes of this research have provided guidance and recommendations to watershed managers throughout the Colorado Plateau and Great Lakes regions of the U.S. to support aquatic life, water quality and human health related resource management projects.
+
+Applied research activities included collecting and reporting the condition of surface water bodies in all national park units in the Northern Colorado Plateau Network, and installing and maintaining stream and riparian groundwater monitoring equipment in Utah and in Michigan to support aquatic habitat assessment research projects. 
+
+[**<span style="color:Gainsboro">Select Publications & Presentations</span>**]{.underline}:
+
+::: {.content-visible when-format="html"}
+* <span style="color:Gainsboro">Riparian Monitoring of Wadeable Streams Protocol for Park Units in the Northern Colorado Plateau Network. Weissinger et al. 2018. NPS Natural Resource Report (1636).</span> [Click to see](files/Weissinger_NRR_2018.pdf)
+
+* <span style="color:Gainsboro">Estimation of Streambed Groundwater Fluxes Associated with Coaster Brook Trout Spawning Habitat. Groundwater 50(3). ([Van Grinsven et al. 2012](https://doi.org/10.1111/j.1745-6584.2011.00856.x).</span> 
+
+* <span style="color:Gainsboro">Water Quality in the Northern Colorado PlateauNetwork, 2006–2009. Van Grinsven et al. 2010. NPS Natural Resource Technical Report (358).</span> [Click to see](files/Van Grinsven_NRR_2010.pdf)
+
+
+:::
 
 <br />
 <br />
