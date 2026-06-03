@@ -15,7 +15,7 @@ We are collaborating with Michigan State University Upper Peninsula Research & E
 [**<span style="color:Gainsboro">Select Publications & Presentations</span>**]{.underline}:
 
 ::: {.content-visible when-format="html"}
-* <span style="color:Gainsboro">Soil Health: Reduced Tillage Strategies for Organic Farmers. DeDecker et al. 2026. MSU Extension Transition to Organic Partnership Program Seminar.</span> [Click to see](files/DeDecker_MSU_TOPP_2026.pdf)
+* <span style="color:Gainsboro">Soil Health: Reduced Tillage Strategies for Organic Farmers. DeDecker et al. 2026. MSU Extension Transition to Organic Partnership Program Seminar.</span> [Click to see](files/DeDecker_MSU_TOPP_2026_v2.pdf)
 :::
 
 ::: {.content-visible when-format="html"}
