@@ -85,7 +85,7 @@ title: "ABL Key Personnel"
 :::
 
 ::: {layout-ncol=3}
-![Paul Rusmisel     Agriculture Science Technician (MSU-UPREC)](images/Paul_Rusmisel-bio.jpg){width=100%}
+![Paul Rusmisel     Agriculture Technician (MSU-UPREC)](images/Paul_Rusmisel-bio.jpg){width=100%}
 
 ![Trinity Valentin    Earth Science Student & McNair Scholar   (NMU-EEGS)](images/valentin-bio.jpg){width=100%}
 
