@@ -99,9 +99,9 @@ title: "ABL Key Personnel"
 ## Collaborators
 
 ::: {layout-ncol=3}
-![<a href="https://www.canr.msu.edu/people/james_dedecker" >Dr James DeDecker</a> MSU-UPREC Director](images/DeDecker-bio.jpg){width=100%}
+![<a href="https://www.canr.msu.edu/people/james_dedecker" >Dr. James DeDecker</a> MSU-UPREC Director](images/DeDecker-bio.jpg){width=100%}
 
-![<a href="https://nmu.edu/chemistry/dr-philip-yangyuoru" >Dr Philip Yanguoru</a> Assistant Professor (NMU-Chemistry)](images/philip-bio.jpg){width=100%}
+![<a href="https://nmu.edu/chemistry/dr-philip-yangyuoru" >Dr. Philip Yanguoru</a> Assistant Professor (NMU-Chemistry)](images/philip-bio.jpg){width=100%}
 
 ![Katy Robinson USDA-NRCS Soil Conservationist](images/katy-bio.jpg){width=100%}
 
@@ -114,12 +114,12 @@ title: "ABL Key Personnel"
 
 ![<a href="https://nmu.edu/eegs/randy-swaty" >Randy Swaty</a> Conservation Ecologist (The Nature Conservancy)](images/randy-bio.jpg){width=100%}
 
-![<a href="https://nmu.edu/eegs/adam-naito" >Dr Adam Naito</a> Assistant Professor (NMU-EEGS)](images/adam-bio.jpg){width=100%}
+![<a href="https://nmu.edu/eegs/adam-naito" >Dr. Adam Naito</a> Assistant Professor (NMU-EEGS)](images/adam-bio.jpg){width=100%}
 
 :::
 
 ::: {layout-ncol=3}
-![Laura Brosius Farmer (<a href="https://www.fullplatefarmmi.com/" >Full Plate Farm</a>)](images/brosius-bio.jpg){width=100%}
+![Dr. Laura Brosius Farm Owner/Operator (<a href="https://www.fullplatefarmmi.com/" >Full Plate Farm</a>)](images/brosius-bio.jpg){width=100%}
 
 ![<a href="https://marquettecd.com/" >Marquette County Conservation District</a>](images/MCCD-logo.png){width=100%}
 
@@ -132,7 +132,7 @@ title: "ABL Key Personnel"
 
 ![<a href="https://www.tu.org/" >Trout Unlimited</a>](images/TU_Logo_2.jpg){width=100%}
 
-![(<a href="https://www.nps.gov/piro/index.htm" >Pictured Rocks National Lakeshore</a>)](images/NPS-bio.png){width=100%}
+![<a href="https://www.nps.gov/piro/index.htm" >Pictured Rocks National Lakeshore</a>](images/NPS-bio.png){width=100%}
 
 ![<a href="https://yellowdogwatershed.org/" >Yellow Dog Watershed Preserve</a>](images/yellow-dog-watersheds-logo-1.png){width=100%}
 :::

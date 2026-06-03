@@ -130,7 +130,7 @@ Applied research activities included collecting and reporting the condition of s
 ::: {.content-visible when-format="html"}
 * <span style="color:Gainsboro">Riparian Monitoring of Wadeable Streams Protocol for Park Units in the Northern Colorado Plateau Network. Weissinger et al. 2018. NPS Natural Resource Report (1636).</span> [Click to see](files/Weissinger_NRR_2018.pdf)
 
-* <span style="color:Gainsboro">Estimation of Streambed Groundwater Fluxes Associated with Coaster Brook Trout Spawning Habitat. Groundwater 50(3). ([Van Grinsven et al. 2012](https://doi.org/10.1111/j.1745-6584.2011.00856.x).</span> 
+* <span style="color:Gainsboro">Estimation of Streambed Groundwater Fluxes Associated with Coaster Brook Trout Spawning Habitat. Groundwater 50(3). ([Van Grinsven et al. 2012](https://doi.org/10.1111/j.1745-6584.2011.00856.x)).</span> 
 
 * <span style="color:Gainsboro">Water Quality in the Northern Colorado PlateauNetwork, 2006–2009. Van Grinsven et al. 2010. NPS Natural Resource Technical Report (358).</span> [Click to see](files/Van Grinsven_NRR_2010.pdf)
 
